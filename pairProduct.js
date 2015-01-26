@@ -8,7 +8,6 @@ Example output:
 
 function max_prod(v) {
     var product = 0;
-    var new_product = 0;
     var tam = v.length;
 
     for (i=0; i < tam; i++){
