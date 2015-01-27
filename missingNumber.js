@@ -19,3 +19,4 @@ function find_missing_number(v) {
 };
 
 find_missing_number([5,4,1,2]);
+find_missing_number([5, 2, 6, 1, 3]);
